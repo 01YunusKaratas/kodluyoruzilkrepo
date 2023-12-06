@@ -2,7 +2,7 @@
 
 My first repository opened within the scope of Kodluyoruz Training.
 
-![Project Image](C:\Users\YUNUS EMRE\Desktop\github)
+![Project Image](/Ekran%20görüntüsü%202023-12-06%20132545.png)
 
 ## INSTALLATION
 
