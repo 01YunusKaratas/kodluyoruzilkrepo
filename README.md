@@ -2,7 +2,7 @@
 
 My first repository opened within the scope of Kodluyoruz Training.
 
-![Project Image](/Ekran%20görüntüsü%202023-12-06%20132545.png)
+![Project Image](/photo1.png)
 
 ## INSTALLATION
 
