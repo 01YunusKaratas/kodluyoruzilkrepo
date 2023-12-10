@@ -27,7 +27,7 @@ Yunus Emre Karatas is a computer engineering student at Manisa Celal Bayar Unive
 A profile photo of Yunus Emre is included in the page.
 
 ## Contact
-- NSTAGRAM
+- INSTAGRAM
 - LINKEDIN
 - GITHUB
 - MAIL
