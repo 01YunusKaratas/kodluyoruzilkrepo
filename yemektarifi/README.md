@@ -32,5 +32,5 @@ Tarifin tamamını görmek için lütfen `index.html` dosyasına göz atın.
 
 ## Görseller
 
-![Resim 1](url1)
-![Resim 2](url2)
+![Resim 1](/yemektarifi/img/Ekran%20görüntüsü%202023-12-11%20183130.png)
+![Resim 2](/yemektarifi/img/Ekran%20görüntüsü%202023-12-11%20183147.png)
